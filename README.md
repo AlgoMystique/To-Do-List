@@ -5,7 +5,9 @@ The To-Do List App is a web application designed to help users manage their task
 ![To-Do-List Screenshot](screenshot/screenshot1.png)
 
 # Live Demo
-You can view the live version of the To-Do List [here](https://algomystique.github.io/To-Do-List/)## Features
+You can view the live version of the To-Do List [here](https://algomystique.github.io/To-Do-List/)
+
+## Features
 
 - **Add New Tasks:** Quickly add tasks to your to-do list with a simple input field.
 - **Mark Tasks as Complete:** Easily mark tasks as done to track your progress.
